@@ -1,0 +1,6 @@
+{
+"id": "did:libreai:e0505cc9-38f6-41e4-a8d2-ee028f0197a8#keys-0",
+"type": "RsaVerificationKey2018",
+"controller": "did:libreai:e0505cc9-38f6-41e4-a8d2-ee028f0197a8",
+"publicKeyPem": "-----BEGIN PUBLIC KEY-----\nMIICIjANBgkqhkiG9w0BAQEFAAOCAg8AMIICCgKCAgEAy74Fs31oZBiXyZraq3Sx\ntZ36d6VLjXqlblO06EmI7zxLLzXsxl1hC5d4qscvQ59zz2WCvVvZ1hspw9qhd5+z\nMP/pILzJWmRD3RT4u1dGQ0X0oQDh3A2kmFii3DX7wVfhuV5XTWut8xs6hP2+7sr8\nBa7Skh7gWiWHFB3AuwfyoDMjEnNUypM4OR0gdrCeJB2BFvdOaU+io7mmYeMmWWOJ\nljp1wm+AZIRpTqlZ06dElLaD1Caw5WmkOP+WNLUnz+2Zs0ya0RBxmVCEhXZADUx6\nd3n7KVOGIiJEWl0if8k0SzWOwjHVL8UHUsvretoPAgOodMsCyp9f/Am/tnH/6/Pq\n9jhz8BeLwk/wrHrOl4XAQPzXq3JCXwqlkDaA+8+TuhZ0rSdTvdp7loS5EoJ3wQrr\nOJlq+P1HRBcwS8ZecYXG3bNOhEb3+ApY/aPWBuKmYm8fznVk9xoXSYl1pT8vUwQF\nbAbKFMaxyUQi02dE6Ygs2DBHvD8tU13A5jSrKtj/V23L2hbcfJr7yprB5e1R9oCu\nbjfzUHJ2BUj3nAtq1UZw87YNApxKmPQ19N1y7Ggqwy69FshFUjWEchVI2b8Ic6nG\nrDOzLJg1EK6e1SbWm2u6fFqDzOKtYhrWg5sK84lisYCLer0YUSBLXQMtPLrs+QVh\nN4UNV79e96WwWkGM/8v5isECAwEAAQ==\n-----END PUBLIC KEY-----\n"
+}

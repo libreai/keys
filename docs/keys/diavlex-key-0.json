@@ -1,0 +1,6 @@
+{
+    "id": "did:libreai:diavlex:da03d49e-4a70-4bce-99f9-9a6b5c4e4631#keys-0",
+    "type": "RsaVerificationKey2018",
+    "controller": "did:libreai:e0505cc9-38f6-41e4-a8d2-ee028f0197a8",
+    "publicKeyPem": "-----BEGIN PUBLIC KEY-----\nMIICIjANBgkqhkiG9w0BAQEFAAOCAg8AMIICCgKCAgEAyvhq4milqMMuGfEOMeKh\neLmCPJgdcWxq/59h0a0rnOpO37ngqHDC9QDZsygHnsA77qqsTx6nk6/Iarpx7lP0\nFoTJ2v234uufR4GXJ+GPo1uj4TMinH8lQOFnIpcb7YprxHI5r0lXhwJB5oChmEyE\nIyp3qEujKfdZg/0VCbEzDPpJkpPVgrw2tcDULuE90NgJOe5//6rpVVAk8b115/Oh\nvy/01uG5yVSSXRt9nNuIpzhODTeHjtuMdQvHRMBKxt3KxpJKL/wqb0QTls77adrS\nyvp49BdP2hoFr/2VuZdYU+EZcEbqI5XgpUsGjDGn7m6gjgMlbc9K5zs46ZrnIXzL\nEKcpr3rkobBXtsiJMnpWdD9PBiMtZVuJtWuzYRhTI0tGkhjHi9w3h56Fj2GTc0qe\nQTLvoFPpPK/xwUkLDzHiI0EG0yGcf1DFEJYeDReSppjZ6IR4fTuWhL1k4cDMAxm3\nRk2ACUkoPINWiyfMwCKOI7s3JlXtS3u6EkvBrCwPUmXgNgpWYQlXbxUdN4SNXSOb\nZj0Pz0l1ZCzsQ1SvKDcjU0KJVJJRr0qYl1ZIwSfIpnaHyQOgfC/1BX8QSQWJ/8F5\nfejPdCu6lT1k7MY4piXqiqEyKi2b3jzRGjzufehRbxQMZ5qVg/86ri5gviBk+6gC\nmXT8e79udPHFHz4zfJV5iXcCAwEAAQ==\n-----END PUBLIC KEY-----\n"
+}
